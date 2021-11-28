@@ -25,7 +25,7 @@ export default DropDown
 /*styled component  */
 const NotificationResult = styled.div`
   width: 300px;
-  border-radius: 5px;
+  border-radius: 6px;
   padding: 5px;
   background: #e8e8e8;
   margin: 30px 0 0 -25px;
